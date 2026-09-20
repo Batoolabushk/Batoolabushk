@@ -1,12 +1,13 @@
 ## Hi, I'm Batool 
 
-🖥️ Software Engineering student in UE<br/>
+🖥️ Machine Learning Engineer | Applied ML • LLMs • RAG | Python • scikit-learn • PyTorch • MLflow | Backend & MLOps<br/>
 👩‍💻 LinkedIn: www.linkedin.com/in/batool-abushkaidem<br/>
 📧 Email: Batoolashraf2018@gmail.com<br/>
 
 # Certificates:
 AWS: https://www.credly.com/badges/66e9df93-8975-4f57-87a3-4a23ed958b2a/linked_in?t=sqx9re <br/>
 Harvard: https://cs50.harvard.edu/certificates/de592495-6913-424b-9d07-106d45aa24db <br/>
+Stanford online/Deeplearning.ai: <br/> 
 
 
 
